@@ -79,11 +79,10 @@ You should see spam/toxic comments hidden automatically.
 
 🔗 **Let’s connect:**
 - [Email](mailto:gigacoderx@gmail.com)
-- [TubeGuardian Community](https://www.reddit.com/r/TubeGuardian/)
 
 Whether you need help with a project or want to collaborate — I'm always open to new ideas and challenges.
 
-<a href="https://ko-fi.com/lunar_flowing">
+<a href="https://ko-fi.com/nuv0x">
   <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=6" width="150" alt="Buy me a coffee">
 </a>
 
